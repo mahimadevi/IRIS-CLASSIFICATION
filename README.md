@@ -9,4 +9,4 @@
 5) sklearn
 <h2> </h2>
 First we calculated this model's accuracy mannually which is 86.61% then we again calculated it by ussing logic regression and cross validation. 
-_**The final Accuracy of the model is: 98.18%**_
+The final Accuracy of the model is: 98.18%
